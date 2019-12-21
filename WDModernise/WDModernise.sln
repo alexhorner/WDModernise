@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WDModernise", "WDModernise\WDModernise.csproj", "{B7A209C8-581C-42A1-B795-8724C060D537}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WDModernise.Core", "WDModernise.Core\WDModernise.Core.csproj", "{0C8AA895-BE06-47FA-A1C7-D36502AEA500}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B7A209C8-581C-42A1-B795-8724C060D537}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7A209C8-581C-42A1-B795-8724C060D537}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7A209C8-581C-42A1-B795-8724C060D537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8AA895-BE06-47FA-A1C7-D36502AEA500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8AA895-BE06-47FA-A1C7-D36502AEA500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8AA895-BE06-47FA-A1C7-D36502AEA500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8AA895-BE06-47FA-A1C7-D36502AEA500}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
