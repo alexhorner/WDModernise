@@ -21,7 +21,7 @@ namespace WDModernise.Core
             _lcdHandlerProcess.StartInfo.CreateNoWindow = true;
             _lcdHandlerProcess.StartInfo.UseShellExecute = false;
 
-            SetSystemFanSpeed(1); //Slow the fan down to slowest speed to make things quieter 
+            SetSystemFanSpeed(5); //Slow the fan down to make things quieter 
             InitialiseLcd(); //Prepare the LCD for data
             SetLcdContrast(0); //Make the LCD as visible as possible
         }
